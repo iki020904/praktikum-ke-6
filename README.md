@@ -17,7 +17,7 @@ Kelas : TI.22.A1
 Ubahlah kode di bawah ini menjadi fungsi menggunakan lambda
    
                 import math
-                # Mohammad Azmi Abdussyukur
+                # Muhammad Rifqi aziz
                 # TI.22.A.1
                 def a(n): return lambda x: x**n
 
